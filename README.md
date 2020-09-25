@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Curso Profesional "De Excel a R" <a href='http://www.datalatam.com/'><img src='img/logo_datalatam.png' align="right" height="130" /></a>
+# Curso Profesional "De Excel a R" <a href='http://www.datalatam.com/'><img src='http://www.datalatam.com/static/img/logo-datalatam-transparent.png' align="right" height="130" /></a>
 
 <!-- badges: start -->
 
@@ -24,13 +24,13 @@ tienes instalada puedes correr en la consola:
 
 ``` r
 R.Version()$version.string
-#> [1] "R version 3.6.2 (2019-12-12)"
+#> [1] "R version 4.0.2 (2020-06-22)"
 ```
 
 La respuesta debería ser por lo menos (puede ser una versión más
 reciente):
 
-    [1] "R version 3.6.2 (2019-12-12)"
+    [1] "R version 4.0.2 (2020-06-22)"
 
 Si necesitas actualizar por favor visita la página correspondiente de
 [r-project.org](https://cloud.r-project.org/)
@@ -38,7 +38,7 @@ Si necesitas actualizar por favor visita la página correspondiente de
 ### **Que tienes una version de RStudio Actualizada**
 
 En RStudio busca la opción en el menú Help \>About RStudio. Busca si
-tienes Versión 1.2.5.033 o mayor. Si es menor instala una versión nueva
+tienes Versión 1.3.1093 o mayor. Si es menor instala una versión nueva
 ya sea con Help \> Check for Updates o visitando las páginas de RStudio
 para bajar una nueva versión compatible con tu sistema:
 
