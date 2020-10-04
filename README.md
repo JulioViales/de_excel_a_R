@@ -10,6 +10,15 @@
 Este repositorio contiene el material usado durante el curso. Todos los
 ejemplos así como la presentación están aquí contenidos.
 
+Para ver la grabación del curso hay tres partes de interés:
+
+- [Webinario Data Latam Agosto 2020- De Excel a R](https://youtu.be/9EpBSvI71wg) - esta es la introduccion general al curso.
+- [Curso Profesional: De Excel a R -Parte 1/2](https://youtu.be/Wk10f83S7Dc)
+- [Curso Profesional: De Excel a R -Parte 2/2](https://youtu.be/-kLwlkQrbkw)
+
+Esperamos verte como participante en uno de los siguientes cursos de Data Latam!
+
+
 ## Preparación
 
 No importa el sistema operativo que usas, siempre y cuando permita la
