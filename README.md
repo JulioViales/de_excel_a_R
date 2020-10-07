@@ -26,7 +26,7 @@ instalación de una versión reciente de R y RStudio (Windows, OSX y
 Linux). Antes de comenzar con los ejemplos por favor verifica lo
 siguiente.
 
-### **Que tienes una versión de R actualizada**
+### Que tienes una versión de R actualizada
 
 Vamos a trabajar con la versión 3.6.0 Para verificar la versión que
 tienes instalada puedes correr en la consola:
@@ -44,7 +44,7 @@ reciente):
 Si necesitas actualizar por favor visita la página correspondiente de
 [r-project.org](https://cloud.r-project.org/)
 
-### **Que tienes una version de RStudio Actualizada**
+### Que tienes una version de RStudio Actualizada
 
 En RStudio busca la opción en el menú Help \>About RStudio. Busca si
 tienes Versión 1.3.1093 o mayor. Si es menor instala una versión nueva
@@ -53,7 +53,7 @@ para bajar una nueva versión compatible con tu sistema:
 
 <https://www.rstudio.com/products/rstudio/download/#download>
 
-### **Que tienes los paquetes necesarios**
+### Que tienes los paquetes necesarios
 
 Para que estés segur@ de tener todos los paquetes que vamos a utilizar
 lo mejor es que los instales de antemano. Con las siguientes
